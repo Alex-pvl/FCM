@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012468525447",
+    "project_id": "fcmpushnotification-a8e5d",
+    "storage_bucket": "fcmpushnotification-a8e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012468525447:android:13434bc27d8a5e42914b22",
+        "android_client_info": {
+          "package_name": "ru.alexpvl.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012468525447-cvb4d2pjvn145rutr6lha1gv0g0bivir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Q8z5OVgG6QxHpGQTGrndV-3lzBtYZ-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012468525447-cvb4d2pjvn145rutr6lha1gv0g0bivir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
